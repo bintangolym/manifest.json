@@ -3,7 +3,7 @@
   "short_name": "CakraBuana",
   "start_url": "/",
   "display": "fullscreen",
-	"start_url": "/"
+	"start_url": "/",
   "lang": "id-ID",
   "background_color": "#fff",
   "theme_color": "#FB8C00",
