@@ -1,11 +1,15 @@
 {
   "name": "Cakra Buana Tour",
-  "short_name": "Cakra Buana",
+  "short_name": "CakraBuana",
   "start_url": "https://www.cakrabuanatour.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#FB8C00",
   "description": "Paket Tour Bangka Belitung",
+  "serviceworker": {
+    "src": "service-worker.js",
+    "scope": "/"
+  }
   "icons": [{
     "src": "https://1.bp.blogspot.com/-6UAi0qkJDTM/XqqdjDAu-EI/AAAAAAAAPmI/k_UasK-_Fpwf6PDk8PY7jqg_WVNEpoqjQCK4BGAsYHg/s48/logo%2B48x48.png",
     "sizes": "48x48",
