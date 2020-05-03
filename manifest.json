@@ -2,7 +2,7 @@
   "name": "Cakra Buana Tour",
   "short_name": "CakraBuana",
   "display": "standalone",
-  "start_url": "https://www.cakrabuanatour.com/",
+  "start_url": "https://www.cakrabuanatour.com/?m=1",
   "lang": "id-ID",
   "background_color": "#fff",
   "theme_color": "#FB8C00",
